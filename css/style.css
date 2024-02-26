@@ -70,7 +70,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #111111;
+    background:radial-gradient(black, transparent);
     opacity: .7;
 }
 
@@ -353,6 +353,10 @@ footer p {
 }
 
 .logo {
-    width: 200px; /* Ajusta el tamaño de la imagen según tu preferencia */
+    width: 120px; /* Ajusta el tamaño de la imagen según tu preferencia */
     height: auto;
+}
+
+.roll:hover{ color: red
+
 }
